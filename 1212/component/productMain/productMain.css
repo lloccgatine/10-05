@@ -3,27 +3,27 @@
 }
 .control-panel{
     background-color: rgb(176, 206, 180);
-    margin-top: 50px;
+    
     display: flex;
     border-radius: 16px 16px 0px 0px;
 }
 body{
-    background-color: rgb(250, 243, 243);
+    background-color: rgba(148, 145, 145, 0.595);
 }
 .control-panel a{
     text-decoration: none;
-    color: rgb(85, 81, 81);
+    color: #636363;
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
     display: block;
 }
 .photo-panel{
-    background-color: rgb(156, 156, 156);
+    background-color: #fff;
     
     width: 49%;
 }
 .description-panel{
-    background-color: rgb(95, 93, 93);
+    background-color: #fff;
     width: 49%;
 }
 .description-container{
@@ -35,5 +35,59 @@ body{
     width: 90%;
     margin: 20px auto;
     display: block;
+}
+.description-container h1{
+    color: blueviolet;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.p{
+    color: #2f225f;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    gap: 20px;
+
+}
+
+#on{
+    background-color: rgb(127, 178, 255);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+   display: flex;
+   flex-direction: row;
+}
+#tw{
+    background-color: rgb(255, 127, 127);
+    border-radius: 50%; 
+    width: 30px;
+    height: 30px; 
+    display: flex;
+    flex-direction: row;
+}
+#thr{
+    background-color: rgb(176, 224, 191);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+
+}
+#fr{
+    background-color: rgb(210, 166, 195);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+
+}
+.star-cont {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
 }
 
