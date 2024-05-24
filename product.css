@@ -4,9 +4,9 @@
     background-color: rgb(228, 198, 159);
     border-radius: 12px;
     box-shadow: 7px -1px 39px -17px rgba(143,129,62,1);
-    position: absolute;
     top: 50px;
     left: 20px;
+    margin-left: 20px;
 }
 body{
     background-color: rgb(238, 225, 215);
