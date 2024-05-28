@@ -3,10 +3,20 @@
 }
 .control-panel{
     background-color: rgb(176, 206, 180);
+<<<<<<< HEAD
     display: flex;
     border-radius: 16px 16px 0px 0px;
 }
 
+=======
+    
+    display: flex;
+    border-radius: 16px 16px 0px 0px;
+}
+body{
+    background-color: rgba(148, 145, 145, 0.595);
+}
+>>>>>>> ef9b5119435344057f23e923b134e190e8fbb7ce
 .control-panel a{
     text-decoration: none;
     color: #636363;
@@ -14,6 +24,7 @@
     padding: 10px;
     display: block;
 }
+<<<<<<< HEAD
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -60,3 +71,5 @@ h2 {
 p {
   margin: 5px 0;
 }
+=======
+>>>>>>> ef9b5119435344057f23e923b134e190e8fbb7ce

@@ -42,7 +42,7 @@ body{
     display: flex;
     justify-content: center;
 }
-.p{
+p{
     color: #2f225f;
     font-size: large;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -74,7 +74,11 @@ body{
     height: 30px;
     display: flex;
     flex-direction: row;
+<<<<<<< HEAD
     box-shadow: 3px 3px 3px  red;
+=======
+    box-shadow: 7px 0px 7px rgb(196, 114, 114);
+>>>>>>> ef9b5119435344057f23e923b134e190e8fbb7ce
 
 }
 #fr{
@@ -84,7 +88,11 @@ body{
     height: 30px;
     display: flex;
     flex-direction: row;
+<<<<<<< HEAD
     box-shadow: 3px 3px 3px  red;
+=======
+    box-shadow: 7px 0px 7px rgb(196, 114, 114);
+>>>>>>> ef9b5119435344057f23e923b134e190e8fbb7ce
 
 }
 .star-cont {
@@ -92,6 +100,7 @@ body{
     flex-direction: row;
     gap: 10px;
 }
+<<<<<<< HEAD
 .size{
     display: flex;
     flex-direction: row;
@@ -152,4 +161,41 @@ body{
     justify-content: center;
 }
 
+=======
+#s{
+    background-color: beige;
+    border-radius: 30px;
+    width: 80px;
+    height: 50px;
+   
+    flex-direction: row;
+}
+#m{
+    border-radius: 30px;
+    width: 80px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+
+}
+#l{
+    border-radius: 30px;
+    width: 80px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+
+}
+#xl{
+    border-radius: 30px;
+    width: 80px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+
+>>>>>>> ef9b5119435344057f23e923b134e190e8fbb7ce
 
