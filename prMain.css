@@ -3,7 +3,6 @@
 }
 .control-panel{
     background-color: rgb(176, 206, 180);
-    
     display: flex;
     border-radius: 16px 16px 0px 0px;
 }
@@ -151,5 +150,3 @@ body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     justify-content: center;
 }
-
-

@@ -4,9 +4,9 @@
     background-color: rgb(228, 198, 159);
     border-radius: 12px;
     box-shadow: 7px -1px 39px -17px rgba(143,129,62,1);
-    position: absolute;
     top: 50px;
     left: 20px;
+    
 }
 body{
     background-color: rgb(238, 225, 215);
@@ -20,11 +20,9 @@ body{
     display: block;
 }
 .product-image2{
-    position: absolute;
+
     width: 25px;
     height: 25px;
-    top: 50px;
-    left: 240px;
     background-color: aliceblue;
     border-radius: 50%;
 }
@@ -52,7 +50,9 @@ body{
     font-size: 20px;
     font-weight: bold;
     color: salmon;
-    justify-content: center;
+    position: absolute;
+    top: 395px;
+   
 
 }
 .star-cont img:hover{
