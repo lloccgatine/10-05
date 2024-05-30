@@ -1,14 +1,16 @@
 .product-item{
-    height: 400px;
+    height: 430px;
     width: 330px;
-    background-color: rgb(228, 198, 159);
+    background-color: rgb(170, 173, 167);
     border-radius: 12px;
-    box-shadow: 7px -1px 39px -17px rgba(143,129,62,1);
+    box-shadow: 7px -1px 39px -17px rgb(54, 65, 52);
     top: 50px;
     left: 20px;  
+    margin-left: 20px;
+    margin-top: 20px;
 }
 body{
-    background-color: rgb(238, 225, 215);
+    background-color: rgb(213, 220, 220);
 }
 .product-image{
     height: 250px;
@@ -48,11 +50,12 @@ body{
 .price{
     font-size: 20px;
     font-weight: bold;
-    color: salmon;
+    color: rgb(40, 38, 37);
+    /* display: flex;
+    justify-content: center; */
     position: absolute;
-    top: 395px;
-   
-
+    left: 175px;
+    margin-top: 5px;
 }
 .star-cont img:hover{
     background-color: yellow;
@@ -101,7 +104,7 @@ body {
   }
   
   header {
-    background-color: #401f38;
+    background-color: #6dab77;
     color: #fff;
     padding: 10px 0;
   }
@@ -123,5 +126,5 @@ body {
   }
   
   nav ul li a:hover {
-    background-color: #7f5679 ;
+    background-color: #2a4535 ;
   }
