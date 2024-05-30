@@ -26,6 +26,7 @@ body{
     height: 25px;
     background-color: aliceblue;
     border-radius: 50%;
+    margin-left: 15px;
 }
 .product-image2:hover{
     background-color: brown;

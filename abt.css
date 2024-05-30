@@ -32,3 +32,10 @@ body {
     margin-left: 220px;
     padding: 20px;
   }
+  .content{
+    font-family: Georgia, serif; 
+    /* font-family: system-ui; */
+  }
+  .content p{
+    font-size: 20px ;
+  }
