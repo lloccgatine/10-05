@@ -74,11 +74,7 @@ p{
     height: 30px;
     display: flex;
     flex-direction: row;
-<<<<<<< HEAD
     box-shadow: 3px 3px 3px  red;
-=======
-    box-shadow: 7px 0px 7px rgb(196, 114, 114);
->>>>>>> ef9b5119435344057f23e923b134e190e8fbb7ce
 
 }
 #fr{
@@ -88,11 +84,7 @@ p{
     height: 30px;
     display: flex;
     flex-direction: row;
-<<<<<<< HEAD
     box-shadow: 3px 3px 3px  red;
-=======
-    box-shadow: 7px 0px 7px rgb(196, 114, 114);
->>>>>>> ef9b5119435344057f23e923b134e190e8fbb7ce
 
 }
 .star-cont {
@@ -100,14 +92,13 @@ p{
     flex-direction: row;
     gap: 10px;
 }
-<<<<<<< HEAD
 .size{
     display: flex;
     flex-direction: row;
     gap: 20px;
 
 }
-#xs{
+/* #xs{
     background-color: rgb(237, 186, 220);
     border-radius: 20px;
     width: 50px;
@@ -159,9 +150,8 @@ p{
     flex-direction: row;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     justify-content: center;
-}
+} */
 
-=======
 #s{
     background-color: beige;
     border-radius: 30px;
@@ -195,7 +185,3 @@ p{
     justify-content: center;
 
 }
-
-
->>>>>>> ef9b5119435344057f23e923b134e190e8fbb7ce
-
