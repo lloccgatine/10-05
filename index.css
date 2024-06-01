@@ -32,3 +32,19 @@ body {
     margin-left: 220px;
     padding: 20px;
   }
+  .content h1{
+    color: rgb(34, 73, 40);
+    position: relative;
+    display: flex;
+    justify-content: center;
+  }
+  .open{
+    box-shadow: 13px 5px 27px 1px rgba(0,0,0,0.59);
+
+  }
+  .content p{
+    font-size: 23px;
+  }
+  .sale{
+    box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.9) 0px 0px 0px 1px;
+  }
