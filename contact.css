@@ -32,4 +32,19 @@ body {
     margin-left: 220px;
     padding: 20px;
   }
+  .contact{
+    height: 430px;
+    width: 1200px;
+    background-color: rgb(170, 173, 167);
+    border-radius: 12px;
+    box-shadow: 7px -1px 39px -17px rgb(54, 65, 52);
+    top: 50px;
+    left: 20px;  
+    margin-left: 20px;
+    text-decoration: none;
+}
+.contact p , h2{
+  margin-left: 20px;
+  margin-top: 20px;
+}
   
