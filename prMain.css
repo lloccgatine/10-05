@@ -46,7 +46,12 @@ body{
     font-size: large;
     font-family: system-ui;
     display: block;
+<<<<<<< HEAD
     margin-left: 20px;
+=======
+    gap: 20px;
+    padding: 10px;
+>>>>>>> 5790a3c06ac7ab2c12d71a863f2fada83e7d4e0a
 
 }
 .star-cont{
@@ -92,12 +97,17 @@ body{
     display: flex;
     flex-direction: row;
     gap: 10px;
+    padding: 20px;
 }
 .size{
     display: flex;
     flex-direction: row;
     gap: 20px;
+<<<<<<< HEAD
     margin-left: 20px;
+=======
+    padding: 20px;
+>>>>>>> 5790a3c06ac7ab2c12d71a863f2fada83e7d4e0a
 
 }
 #xs{
@@ -158,7 +168,12 @@ body{
     font-size: x-large;
     font-family: system-ui;
     display: block;
+<<<<<<< HEAD
     margin: 20px;
+=======
+    gap: 20px;
+    padding: 20px;
+>>>>>>> 5790a3c06ac7ab2c12d71a863f2fada83e7d4e0a
 }
 
 .btn {
@@ -170,4 +185,14 @@ body{
     height: 50px;
     margin-left: 190px;
     margin-top: 20px;
+    pa
+}
+p {
+    margin: 0;
+}
+h2{
+    margin: 0;
+}
+p, ul{
+    margin: 30px;
 }
